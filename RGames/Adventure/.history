@@ -1,0 +1,54 @@
+install.packages("igraph")
+hae sex
+command
+install.packages("igraph")
+*
+talk
+*
+have sex
+*
+quit
+q
+rooms$Name
+stopwords
+stopwords()
+stop_words()
+stopwords()
+command
+command <- "take the sword"
+strsplit(command, " ")
+words
+words %in% stopwords()
+stopwords() %in% words
+stopwords() %in% words[1]
+stopwords() %in% words[2]
+words
+verbs
+verbs
+verbs %in% words
+verbs[1] %in% words
+words %in% verbs
+words[1] %in% verbs
+verbs %in% words[1]
+vebrs
+verbs
+words
+verbs %in% words[2]
+wordss[2] %in% verbs
+words[2] %in% verbs
+words[2] == verbs
+words[1] == verbs
+words[1
+words[1
+
+
+
+
+
+words
+words[1]
+words
+words %in% stopwords()
+words %in% verbs
+verbs %in% words
+which(verbs %in% words)
