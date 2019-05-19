@@ -5,7 +5,7 @@ This repository holds the R-code related to the [The Devil is in the Data](https
 This blog covers a diverse range of topics:
 
 * Geography: Scripts related to geographical analysis.
-* Hydroinformatics: Data Science for water utilities.
+* Hydroinformatics: Data Science for water utilities (moved to a [separate repository](https://github.com/pprevos/Hydroinformatics "Water Utility Data Science")).
 * Marketing: Analysing customer data.
 * Miscellaneaous: Various topics.
 * Project Euler: Solutions to Project Eueler in R (moved to a [separate repository](https://github.com/pprevos/ProjectEuler "Project Euler solutions")).
